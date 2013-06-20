@@ -1,0 +1,10 @@
+function geoip_country_code() { return 'IN'; }
+function geoip_country_name() { return 'India'; }
+function geoip_city()         { return 'Bangalore'; }
+function geoip_region()       { return '19'; }
+function geoip_region_name()  { return 'Karnataka'; }
+function geoip_latitude()     { return '12.9833'; }
+function geoip_longitude()    { return '77.5833'; }
+function geoip_postal_code()  { return ''; }
+function geoip_area_code()    { return ''; }
+function geoip_metro_code()   { return ''; }

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Acme';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Acme'), local('Acme-Regular'), url(http://themes.googleusercontent.com/static/fonts/acme/v2/-nVwQJDyFoBcrvpER8f-lA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap'), local('Asap-Regular'), url(http://themes.googleusercontent.com/static/fonts/asap/v1/SgBaq0dzhSGNMfqm2JX5ng.woff) format('woff');
+}
